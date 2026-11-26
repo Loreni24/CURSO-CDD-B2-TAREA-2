@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261115152144RFG1XS</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261115152144GRJICD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CURSO CDD B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795695735490</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>67d46064-f252-4db7-a0db-7f973358e675</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TAREA 2</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>67d46064-f252-4db7-a0db-7f973358e675</odePageId>
+      <odeBlockId>block-mwhuviq5-qcmdea1o2</odeBlockId>
+      <blockName>Imágen introductoria a la tarea 2 del curso CDD B2.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>67d46064-f252-4db7-a0db-7f973358e675</odePageId>
+          <odeBlockId>block-mwhuviq5-qcmdea1o2</odeBlockId>
+          <odeIdeviceId>idevice-1794748428940-4gspkywgp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1234px; text-align: center;"><img src="{{context_path}}/content/resources/Curación digital para la educación.png" width="1234" height="694" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794748428940-4gspkywgp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1234px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Curación digital para la educación.png\" width=\"1234\" height=\"694\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhu88yd-z66yluwc5</odePageId>
+  <odeParentPageId>67d46064-f252-4db7-a0db-7f973358e675</odeParentPageId>
+  <pageName>Actividad 1. Visualización del vídeo tutorial</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1. Visualización del vídeo tutorial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1. Visualización del vídeo tutorial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1. Visualización del vídeo tutorial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhu88yd-z66yluwc5</odePageId>
+      <odeBlockId>block-mwhv0uk5-vggfah8j2</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhu88yd-z66yluwc5</odePageId>
+          <odeBlockId>block-mwhv0uk5-vggfah8j2</odeBlockId>
+          <odeIdeviceId>idevice-1794748677556-lau9cqacr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para poder realizar con mayor facilidad esta tarea, se ha visionado previamente un vídeo tutorial completo sobre la utilización y funcionamiento de la aplicación <em>offline</em> Exelearning.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794748677556-lau9cqacr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para poder realizar con mayor facilidad esta tarea, se ha visionado previamente un vídeo tutorial completo sobre la utilización y funcionamiento de la aplicación <em>offline</em> Exelearning.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhu9acl-4xsxybsa1</odePageId>
+  <odeParentPageId>67d46064-f252-4db7-a0db-7f973358e675</odeParentPageId>
+  <pageName>Actividad 2. Curación y búsqueda de contenidos digitales educativos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2. Curación y búsqueda de contenidos digitales educativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2. Curación y búsqueda de contenidos digitales educativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 2. Curación y búsqueda de contenidos digitales educativos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhu9acl-4xsxybsa1</odePageId>
+      <odeBlockId>block-mwhva8nh-n0l6rtw74</odeBlockId>
+      <blockName>¿Qué entendemos por curación de contenidos digitales?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhu9acl-4xsxybsa1</odePageId>
+          <odeBlockId>block-mwhva8nh-n0l6rtw74</odeBlockId>
+          <odeIdeviceId>idevice-1794749115724-q7rxyzd9f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Tradicionalmente, los recursos educativos estaban principalmente determinados por las editoriales y los libros de texto, lo que limitaba las posibilidades de acceso y selección de materiales por parte del profesorado. Sin embargo, la incorporación de las tecnologías digitales ha transformado profundamente este escenario, multiplicando exponencialmente la cantidad de información disponible y diversificando los formatos en los que se presenta.</p>
+<p><img src="{{context_path}}/content/resources/Curación digital en el aula.png" width="506" height="285" alt="" style="float: right;" /></p>
+<p style="text-align: justify;">Actualmente, Internet permite acceder de manera inmediata a una enorme variedad de conocimientos y recursos, ofreciendo nuevas oportunidades para investigar, analizar y enriquecer los procesos de enseñanza y aprendizaje. No obstante, esta abundancia informativa también plantea importantes desafíos relacionados con la fiabilidad, la calidad, la pertinencia y el uso responsable de los contenidos digitales.</p>
+<p style="text-align: justify;">En este contexto, la curación de contenidos adquiere un papel fundamental en la competencia digital docente, ya que permite gestionar adecuadamente la sobreabundancia de información mediante la búsqueda, evaluación, selección y organización de recursos relevantes. De este modo, el profesorado puede transformar la información disponible en materiales educativos significativos, de calidad y adaptados a las necesidades de su alumnado.</p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">                                                                                                                                                                                            (Dominio público)</p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: right;"><br /></p>
+<p style="text-align: center;">                                                                                                                                    </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794749115724-q7rxyzd9f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Tradicionalmente, los recursos educativos estaban principalmente determinados por las editoriales y los libros de texto, lo que limitaba las posibilidades de acceso y selección de materiales por parte del profesorado. Sin embargo, la incorporación de las tecnologías digitales ha transformado profundamente este escenario, multiplicando exponencialmente la cantidad de información disponible y diversificando los formatos en los que se presenta.</p>\n<p><img src=\"{{context_path}}/content/resources/Curación digital en el aula.png\" width=\"506\" height=\"285\" alt=\"\" style=\"float: right;\" /></p>\n<p style=\"text-align: justify;\">Actualmente, Internet permite acceder de manera inmediata a una enorme variedad de conocimientos y recursos, ofreciendo nuevas oportunidades para investigar, analizar y enriquecer los procesos de enseñanza y aprendizaje. No obstante, esta abundancia informativa también plantea importantes desafíos relacionados con la fiabilidad, la calidad, la pertinencia y el uso responsable de los contenidos digitales.</p>\n<p style=\"text-align: justify;\">En este contexto, la curación de contenidos adquiere un papel fundamental en la competencia digital docente, ya que permite gestionar adecuadamente la sobreabundancia de información mediante la búsqueda, evaluación, selección y organización de recursos relevantes. De este modo, el profesorado puede transformar la información disponible en materiales educativos significativos, de calidad y adaptados a las necesidades de su alumnado.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\">                                                                                                                                                                                            (Dominio público)</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: right;\"><br /></p>\n<p style=\"text-align: center;\">                                                                                                                                    </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhua5u4-kaybn6lr3</odePageId>
+  <odeParentPageId>page-mwhu9acl-4xsxybsa1</odeParentPageId>
+  <pageName>Conceptos y ventajas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conceptos y ventajas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conceptos y ventajas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhua5u4-kaybn6lr3</odePageId>
+      <odeBlockId>block-mwhvnr1x-wi4rwlgco</odeBlockId>
+      <blockName>Concepto de curación de contenidos en educación y ventajas</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhua5u4-kaybn6lr3</odePageId>
+          <odeBlockId>block-mwhvnr1x-wi4rwlgco</odeBlockId>
+          <odeIdeviceId>idevice-1794749746100-lf9nhz8cm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como hemos comentado en el apartado anterior, hasta hace poco años, tradicionalmente, el acceso al conocimiento y a la información estaba condicionado por la disponibilidad de recursos físicos, como los libros de texto, las bibliotecas y los materiales impresos. Sin embargo, la evolución de las tecnologías digitales ha transformado profundamente este escenario, ofreciendo al profesorado y al alumnado un amplio abanico de posibilidades para acceder a información, recursos y experiencias de aprendizaje más allá de los medios tradicionales.</p>
+<p style="text-align: justify;">En este contexto, <strong>la curación de contenidos digitales</strong> se convierte en una competencia esencial para el profesorado, ya que <strong>permite localizar, evaluar, seleccionar y organizar recursos de calidad, adaptándolos a las necesidades educativas.</strong> Su adecuada aplicación contribuye a enriquecer los procesos de enseñanza y aprendizaje, favoreciendo una educación más dinámica, contextualizada y acorde con las demandas de la sociedad digital.</p>
+<p style="text-align: justify;">A continuación, se incluye una infografía que explica 4 beneficios fundamentales de la curación de contenidos en materia educativa:</p>
+<p><img src="{{context_path}}/content/resources/Beneficios de curar contenidos educativos.png" width="1536" height="1024" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794749746100-lf9nhz8cm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como hemos comentado en el apartado anterior, hasta hace poco años, tradicionalmente, el acceso al conocimiento y a la información estaba condicionado por la disponibilidad de recursos físicos, como los libros de texto, las bibliotecas y los materiales impresos. Sin embargo, la evolución de las tecnologías digitales ha transformado profundamente este escenario, ofreciendo al profesorado y al alumnado un amplio abanico de posibilidades para acceder a información, recursos y experiencias de aprendizaje más allá de los medios tradicionales.</p>\n<p style=\"text-align: justify;\">En este contexto, <strong>la curación de contenidos digitales</strong> se convierte en una competencia esencial para el profesorado, ya que <strong>permite localizar, evaluar, seleccionar y organizar recursos de calidad, adaptándolos a las necesidades educativas.</strong> Su adecuada aplicación contribuye a enriquecer los procesos de enseñanza y aprendizaje, favoreciendo una educación más dinámica, contextualizada y acorde con las demandas de la sociedad digital.</p>\n<p style=\"text-align: justify;\">A continuación, se incluye una infografía que explica 4 beneficios fundamentales de la curación de contenidos en materia educativa:</p>\n<p><img src=\"{{context_path}}/content/resources/Beneficios de curar contenidos educativos.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhub5jw-zb220g2ru</odePageId>
+  <odeParentPageId>page-mwhu9acl-4xsxybsa1</odeParentPageId>
+  <pageName>La curación en educación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La curación en educación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La curación en educación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhub5jw-zb220g2ru</odePageId>
+      <odeBlockId>block-mwhv8jhh-5vuuz0vzo</odeBlockId>
+      <blockName>¿Qué es la curación en educación?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhub5jw-zb220g2ru</odePageId>
+          <odeBlockId>block-mwhv8jhh-5vuuz0vzo</odeBlockId>
+          <odeIdeviceId>idevice-1794749036452-rxhatsiih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La curación de contenidos digitales constituye una competencia fundamental en el ámbito educativo actual. Aunque tradicionalmente se ha asociado a profesionales especializados, en la sociedad digital esta práctica forma parte de nuestras actividades cotidianas. Cuando accedemos a Internet para localizar información, analizar su relevancia, seleccionar los recursos más adecuados y compartirlos con otras personas, estamos desarrollando procesos básicos de curación de contenidos.</p>
+<p style="text-align: justify;">Desde una perspectiva educativa, <strong>la curación de contenidos consiste en un proceso sistemático de búsqueda, recopilación, análisis, selección, organización y difusión de información y recursos digitales</strong>, orientado a satisfacer una necesidad o alcanzar un objetivo determinado.</p>
+<p style="text-align: justify;">Esta práctica no se limita a reunir información disponible en la red, sino que implica aplicar criterios de calidad, pertinencia, fiabilidad y adecuación al contexto educativo, aportando un valor añadido mediante su contextualización, estructuración y presentación. De este modo, la curación de contenidos permite transformar la información dispersa en conocimiento significativo, facilitando su utilización en los procesos de enseñanza y aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794749036452-rxhatsiih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La curación de contenidos digitales constituye una competencia fundamental en el ámbito educativo actual. Aunque tradicionalmente se ha asociado a profesionales especializados, en la sociedad digital esta práctica forma parte de nuestras actividades cotidianas. Cuando accedemos a Internet para localizar información, analizar su relevancia, seleccionar los recursos más adecuados y compartirlos con otras personas, estamos desarrollando procesos básicos de curación de contenidos.</p>\n<p style=\"text-align: justify;\">Desde una perspectiva educativa, <strong>la curación de contenidos consiste en un proceso sistemático de búsqueda, recopilación, análisis, selección, organización y difusión de información y recursos digitales</strong>, orientado a satisfacer una necesidad o alcanzar un objetivo determinado.</p>\n<p style=\"text-align: justify;\">Esta práctica no se limita a reunir información disponible en la red, sino que implica aplicar criterios de calidad, pertinencia, fiabilidad y adecuación al contexto educativo, aportando un valor añadido mediante su contextualización, estructuración y presentación. De este modo, la curación de contenidos permite transformar la información dispersa en conocimiento significativo, facilitando su utilización en los procesos de enseñanza y aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhubf4r-0iso1lezq</odePageId>
+  <odeParentPageId>page-mwhub5jw-zb220g2ru</odeParentPageId>
+  <pageName>Criterios de búsqueda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de búsqueda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de búsqueda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de búsqueda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhubf4r-0iso1lezq</odePageId>
+      <odeBlockId>block-mwhwmue6-0l0zv9z9u</odeBlockId>
+      <blockName>¿Qué criterios deberíamos tener en cuenta para la búsqueda y selección de recursos o contenidos digitales tanto para su uso como para la modificación de los mismos?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhubf4r-0iso1lezq</odePageId>
+          <odeBlockId>block-mwhwmue6-0l0zv9z9u</odeBlockId>
+          <odeIdeviceId>idevice-1794751383389-staysywjr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Existe tal multitud de fuentes, que necesitamos filtrar contenidos aplicando una serie de criterios, con el objetivo de conseguir mantener la veracidad, credibilidad, fiabilidad, y calidad de las producciones.</p>
+<p style="text-align: justify;">Algunos de estos criterios o indicadores que se recomiendan son: autoridad, selección de contenidos, actualización, navegabilidad, organización, legibilidad y buenos recursos de información en linea y tipo de licencias.</p>
+<p style="text-align: justify;">Para verlo de forma más visual, se incluye una infografía que resume y explica cada uno de los criterios citados anteriormente:</p>
+<figure class="exe-figure position-center" style="width: 1408px; text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_hx79oehx79oehx79.jpg" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794751383389-staysywjr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Existe tal multitud de fuentes, que necesitamos filtrar contenidos aplicando una serie de criterios, con el objetivo de conseguir mantener la veracidad, credibilidad, fiabilidad, y calidad de las producciones.</p>\n<p style=\"text-align: justify;\">Algunos de estos criterios o indicadores que se recomiendan son: autoridad, selección de contenidos, actualización, navegabilidad, organización, legibilidad y buenos recursos de información en linea y tipo de licencias.</p>\n<p style=\"text-align: justify;\">Para verlo de forma más visual, se incluye una infografía que resume y explica cada uno de los criterios citados anteriormente:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1408px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_hx79oehx79oehx79.jpg\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhx17gi-p9cx0mlmv</odePageId>
+  <odeParentPageId>page-mwhub5jw-zb220g2ru</odeParentPageId>
+  <pageName>Selección de información</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Selección de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Selección de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhx17gi-p9cx0mlmv</odePageId>
+      <odeBlockId>block-mwhx1du5-53ek6sia4</odeBlockId>
+      <blockName>¿Cómo seleccionar la información necesaria?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhx17gi-p9cx0mlmv</odePageId>
+          <odeBlockId>block-mwhx1du5-53ek6sia4</odeBlockId>
+          <odeIdeviceId>idevice-1794752061772-pri7orjtj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">De forma más concreta en el ámbito educativo, es fundamental seleccionar la información necesaria teniendo en cuenta una serie de premisas, las cuales se detallan a continuación:</p>
+<figure class="exe-figure position-center" style="width: 1408px; text-align: center;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_snpy19snpy19snpy.jpg" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794752061772-pri7orjtj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">De forma más concreta en el ámbito educativo, es fundamental seleccionar la información necesaria teniendo en cuenta una serie de premisas, las cuales se detallan a continuación:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1408px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_snpy19snpy19snpy.jpg\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhuc87g-t80k9eaum</odePageId>
+  <odeParentPageId>page-mwhub5jw-zb220g2ru</odeParentPageId>
+  <pageName>Fases de que consta</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fases de que consta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Fases de que consta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhuc87g-t80k9eaum</odePageId>
+      <odeBlockId>block-mwp70rew-6mewj4seg</odeBlockId>
+      <blockName>¿Cuáles son las fases para la curación de contenidos?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhuc87g-t80k9eaum</odePageId>
+          <odeBlockId>block-mwp70rew-6mewj4seg</odeBlockId>
+          <odeIdeviceId>idevice-1795192092103-lo4p5t3u6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las<strong> fases</strong> para realizar una curación de contenidos educativos son las siguientes: </p>
+<p style="text-align: justify;"><em><strong>1. Planificación:</strong></em> Determinar el propósito de la búsqueda, los contenidos que se necesitan y las características del alumnado al que van dirigidos.</p>
+<p style="text-align: justify;"><em><strong>2. Localización de recursos</strong><strong>:</strong></em> Buscar y reunir materiales educativos a través de plataformas, repositorios y fuentes digitales especializadas.</p>
+<p style="text-align: justify;"><strong><em>3. Selección y valoración:</em></strong> Analizar los recursos encontrados, comprobando su calidad, fiabilidad, vigencia, accesibilidad y permisos de utilización.</p>
+<p style="text-align: justify;"><em><strong>4. Organización y contextualización:</strong></em> Clasificar los materiales seleccionados y adaptarlos al contexto educativo mediante explicaciones, actividades o propuestas didácticas.</p>
+<p style="text-align: justify;"><em><strong>5. Compartir y reconocer la autoría:</strong></em> Difundir los recursos a través de espacios educativos digitales, citando correctamente sus autores y fuentes originales y respetando las licencias.</p>
+<p style="text-align: justify;"><em><strong>6. Seguimiento y mejora:</strong></em> Revisar la utilidad de los materiales, comprobar su funcionamiento y actualizar o sustituir aquellos que hayan quedado obsoletos.</p>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: justify;"><img src="{{context_path}}/content/resources/Proceso de curación de contenidos digitales.png" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795192092103-lo4p5t3u6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las<strong> fases</strong> para realizar una curación de contenidos educativos son las siguientes: </p>\n<p style=\"text-align: justify;\"><em><strong>1. Planificación:</strong></em> Determinar el propósito de la búsqueda, los contenidos que se necesitan y las características del alumnado al que van dirigidos.</p>\n<p style=\"text-align: justify;\"><em><strong>2. Localización de recursos</strong><strong>:</strong></em> Buscar y reunir materiales educativos a través de plataformas, repositorios y fuentes digitales especializadas.</p>\n<p style=\"text-align: justify;\"><strong><em>3. Selección y valoración:</em></strong> Analizar los recursos encontrados, comprobando su calidad, fiabilidad, vigencia, accesibilidad y permisos de utilización.</p>\n<p style=\"text-align: justify;\"><em><strong>4. Organización y contextualización:</strong></em> Clasificar los materiales seleccionados y adaptarlos al contexto educativo mediante explicaciones, actividades o propuestas didácticas.</p>\n<p style=\"text-align: justify;\"><em><strong>5. Compartir y reconocer la autoría:</strong></em> Difundir los recursos a través de espacios educativos digitales, citando correctamente sus autores y fuentes originales y respetando las licencias.</p>\n<p style=\"text-align: justify;\"><em><strong>6. Seguimiento y mejora:</strong></em> Revisar la utilidad de los materiales, comprobar su funcionamiento y actualizar o sustituir aquellos que hayan quedado obsoletos.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: justify;\"><img src=\"{{context_path}}/content/resources/Proceso de curación de contenidos digitales.png\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhucftw-5s4cdxn19</odePageId>
+  <odeParentPageId>page-mwhub5jw-zb220g2ru</odeParentPageId>
+  <pageName>Habilidades del curador</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Habilidades del curador</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Habilidades del curador</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Habilidades del curador</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhucftw-5s4cdxn19</odePageId>
+      <odeBlockId>block-mwp79leg-i2rrb1hw7</odeBlockId>
+      <blockName>Habilidades del curador de contenidos</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhucftw-5s4cdxn19</odePageId>
+          <odeBlockId>block-mwp79leg-i2rrb1hw7</odeBlockId>
+          <odeIdeviceId>idevice-1795192504215-q8zj46a6i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La curación de contenidos en el ámbito educativo exige que el profesorado adquiera determinadas destrezas y competencias. Entre ellas, destaca la capacidad de examinar, contrastar y valorar de manera crítica los recursos digitales, con el fin de identificar y seleccionar aquellos que resulten más adecuados, fiables y útiles para favorecer el aprendizaje del alumnado. Por este motivos, es importante que el curador cuente con unas habilidades específicas para que el trabajo sea eficiente y eficaz. Dichas habilidades se explican a continuación:</p>
+<p style="text-align: justify;"><strong>-Actualización profesional</strong>: Mantenerse al día de las novedades, tendencias y avances relacionados con su ámbito de conocimiento.</p>
+<p style="text-align: justify;"><strong>-Búsqueda de información</strong>: Saber localizar y consultar diversas fuentes para obtener contenidos fiables, relevantes y de calidad.</p>
+<p style="text-align: justify;"><strong>-Pensamiento crítico</strong>: Analizar y contrastar la información, valorando su utilidad, veracidad y pertinencia educativa.</p>
+<p style="text-align: justify;"><strong>-Organización de recursos</strong>: Clasificar y estructurar los materiales de forma clara, facilitando su consulta y utilización.</p>
+<p style="text-align: justify;"><strong>-Comunicación y colaboración</strong>: Presentar los contenidos de manera comprensible y promover el intercambio de ideas, la participación y el aprendizaje compartido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795192504215-q8zj46a6i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La curación de contenidos en el ámbito educativo exige que el profesorado adquiera determinadas destrezas y competencias. Entre ellas, destaca la capacidad de examinar, contrastar y valorar de manera crítica los recursos digitales, con el fin de identificar y seleccionar aquellos que resulten más adecuados, fiables y útiles para favorecer el aprendizaje del alumnado. Por este motivos, es importante que el curador cuente con unas habilidades específicas para que el trabajo sea eficiente y eficaz. Dichas habilidades se explican a continuación:</p>\n<p style=\"text-align: justify;\"><strong>-Actualización profesional</strong>: Mantenerse al día de las novedades, tendencias y avances relacionados con su ámbito de conocimiento.</p>\n<p style=\"text-align: justify;\"><strong>-Búsqueda de información</strong>: Saber localizar y consultar diversas fuentes para obtener contenidos fiables, relevantes y de calidad.</p>\n<p style=\"text-align: justify;\"><strong>-Pensamiento crítico</strong>: Analizar y contrastar la información, valorando su utilidad, veracidad y pertinencia educativa.</p>\n<p style=\"text-align: justify;\"><strong>-Organización de recursos</strong>: Clasificar y estructurar los materiales de forma clara, facilitando su consulta y utilización.</p>\n<p style=\"text-align: justify;\"><strong>-Comunicación y colaboración</strong>: Presentar los contenidos de manera comprensible y promover el intercambio de ideas, la participación y el aprendizaje compartido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhucocb-madq6u5bk</odePageId>
+  <odeParentPageId>page-mwhub5jw-zb220g2ru</odeParentPageId>
+  <pageName>Beneficios</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Beneficios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Beneficios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhucocb-madq6u5bk</odePageId>
+      <odeBlockId>block-mwp7dorb-tgk487jph</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhucocb-madq6u5bk</odePageId>
+          <odeBlockId>block-mwp7dorb-tgk487jph</odeBlockId>
+          <odeIdeviceId>idevice-1795192695190-tvzpo4ix9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La curación de contenidos digitales es un proceso que permite localizar, seleccionar, organizar y compartir información con una finalidad educativa. Su aplicación ayuda a gestionar el exceso de información disponible en Internet y contribuye a mejorar la calidad de los procesos de enseñanza y aprendizaje. Existen numerosos beneficios tanto para docentes como para estudiantes. Estos son los principales beneficios:</p>
+<h5 style="text-align: justify;"><strong><span style="text-decoration: underline;">Beneficios para el profesorado</span></strong></h5>
+<p style="text-align: justify;"><strong><em>-Optimización del tiempo</em></strong>: Facilita la preparación de clases mediante la recopilación y organización de recursos educativos.</p>
+<p style="text-align: justify;"><strong><em>-Calidad y actualización</em></strong>: Permite utilizar materiales contrastados, actuales y relacionados con los objetivos de aprendizaje.</p>
+<p style="text-align: justify;"><em><strong>-Diversidad y adaptación:</strong></em> Favorece la selección de recursos en distintos formatos, ajustándolos a las características y necesidades del alumnado.</p>
+<p style="text-align: justify;"><em><strong>-Colaboración profesional:</strong></em> Impulsa el intercambio de materiales, conocimientos y experiencias entre docentes.</p>
+<h5 style="text-align: justify;"><span style="text-decoration: underline;"><strong>Beneficios para el alumnado</strong></span></h5>
+<p style="text-align: justify;"><em><strong>-Acceso a información seleccionada:</strong></em> Evita la saturación informativa y facilita el acceso a contenidos útiles y adecuados.</p>
+<p style="text-align: justify;"><em><strong>-Desarrollo de competencias digitales:</strong></em> Potencia la capacidad de analizar fuentes, valorar la información y respetar la propiedad intelectual.</p>
+<p style="text-align: justify;"><em><strong>-Aprendizaje autónomo y colaborativo:</strong></em> Promueve la participación activa, el trabajo cooperativo y la construcción compartida del conocimiento.</p>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/Beneficios de la curación educativa.png" width="1536" height="1024" alt="" />
+<figcaption class="figcaption"><span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795192695190-tvzpo4ix9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La curación de contenidos digitales es un proceso que permite localizar, seleccionar, organizar y compartir información con una finalidad educativa. Su aplicación ayuda a gestionar el exceso de información disponible en Internet y contribuye a mejorar la calidad de los procesos de enseñanza y aprendizaje. Existen numerosos beneficios tanto para docentes como para estudiantes. Estos son los principales beneficios:</p>\n<h5 style=\"text-align: justify;\"><strong><span style=\"text-decoration: underline;\">Beneficios para el profesorado</span></strong></h5>\n<p style=\"text-align: justify;\"><strong><em>-Optimización del tiempo</em></strong>: Facilita la preparación de clases mediante la recopilación y organización de recursos educativos.</p>\n<p style=\"text-align: justify;\"><strong><em>-Calidad y actualización</em></strong>: Permite utilizar materiales contrastados, actuales y relacionados con los objetivos de aprendizaje.</p>\n<p style=\"text-align: justify;\"><em><strong>-Diversidad y adaptación:</strong></em> Favorece la selección de recursos en distintos formatos, ajustándolos a las características y necesidades del alumnado.</p>\n<p style=\"text-align: justify;\"><em><strong>-Colaboración profesional:</strong></em> Impulsa el intercambio de materiales, conocimientos y experiencias entre docentes.</p>\n<h5 style=\"text-align: justify;\"><span style=\"text-decoration: underline;\"><strong>Beneficios para el alumnado</strong></span></h5>\n<p style=\"text-align: justify;\"><em><strong>-Acceso a información seleccionada:</strong></em> Evita la saturación informativa y facilita el acceso a contenidos útiles y adecuados.</p>\n<p style=\"text-align: justify;\"><em><strong>-Desarrollo de competencias digitales:</strong></em> Potencia la capacidad de analizar fuentes, valorar la información y respetar la propiedad intelectual.</p>\n<p style=\"text-align: justify;\"><em><strong>-Aprendizaje autónomo y colaborativo:</strong></em> Promueve la participación activa, el trabajo cooperativo y la construcción compartida del conocimiento.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Beneficios de la curación educativa.png\" width=\"1536\" height=\"1024\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhudrtp-45lzk1dnx</odePageId>
+  <odeParentPageId>page-mwhu9acl-4xsxybsa1</odeParentPageId>
+  <pageName>Symbaloo: Recursos para docentes</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo: Recursos para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo: Recursos para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhudrtp-45lzk1dnx</odePageId>
+      <odeBlockId>block-mwrv5u3r-9mvkndgf1</odeBlockId>
+      <blockName>Creación de Symbaloo docente</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhudrtp-45lzk1dnx</odePageId>
+          <odeBlockId>block-mwrv5u3r-9mvkndgf1</odeBlockId>
+          <odeIdeviceId>idevice-1795353572005-5kheago3z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><a href="https://www.symbaloo.com/shared/AAAAAgNynYQAA41_IBjwww==" target="_blank" rel="noopener" title=""></a>La creación de estos dos Webmixes en Symbaloo tiene como finalidad organizar, facilitar el acceso y promover el uso de recursos digitales en el contexto educativo, favoreciendo el desarrollo de la competencia digital docente y la competencia digital del alumnado.</p>
+<p style="text-align: justify;">El Webmix que adjunto a continuación, está diseñado como un espacio de apoyo para el profesorado. Incluye herramientas para la comunicación, la coordinación, el trabajo colaborativo, la creación de materiales didácticos, la evaluación y la formación permanente. Su uso permite optimizar la organización de recursos, compartir buenas prácticas y favorecer la colaboración entre docentes.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAgNynYQAA41_IBjwww==" target="_blank" rel="noopener" title=""><img src="{{context_path}}/content/resources/Symbaloo docentes_page-0001.jpg" width="1755" height="1240" alt="" /></a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795353572005-5kheago3z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><a href=\"https://www.symbaloo.com/shared/AAAAAgNynYQAA41_IBjwww==\" target=\"_blank\" rel=\"noopener\" title=\"\"></a>La creación de estos dos Webmixes en Symbaloo tiene como finalidad organizar, facilitar el acceso y promover el uso de recursos digitales en el contexto educativo, favoreciendo el desarrollo de la competencia digital docente y la competencia digital del alumnado.</p>\n<p style=\"text-align: justify;\">El Webmix que adjunto a continuación, está diseñado como un espacio de apoyo para el profesorado. Incluye herramientas para la comunicación, la coordinación, el trabajo colaborativo, la creación de materiales didácticos, la evaluación y la formación permanente. Su uso permite optimizar la organización de recursos, compartir buenas prácticas y favorecer la colaboración entre docentes.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAgNynYQAA41_IBjwww==\" target=\"_blank\" rel=\"noopener\" title=\"\"><img src=\"{{context_path}}/content/resources/Symbaloo docentes_page-0001.jpg\" width=\"1755\" height=\"1240\" alt=\"\" /></a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhuek23-v8jl16k5e</odePageId>
+  <odeParentPageId>page-mwhu9acl-4xsxybsa1</odeParentPageId>
+  <pageName>Symbaloo: recursos para el alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo: recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo: recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhuek23-v8jl16k5e</odePageId>
+      <odeBlockId>block-mwrv6ifx-xlhw1qjxh</odeBlockId>
+      <blockName>Symbaloo para estudiantes</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhuek23-v8jl16k5e</odePageId>
+          <odeBlockId>block-mwrv6ifx-xlhw1qjxh</odeBlockId>
+          <odeIdeviceId>idevice-1795353603548-r8hz3stm4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El siguiente Webmix, está dirigido al alumnado y reúne herramientas variadas para acceder a información, desarrollar actividades interactivas, crear contenidos, trabajar diferentes áreas curriculares y practicar de forma autónoma. La selección de recursos pretende dar respuesta a diferentes necesidades, ritmos y estilos de aprendizaje, fomentando la motivación, la creatividad, la participación activa y la autonomía.</p>
+<p style="text-align: justify;">Ambos tableros presentan una organización visual intuitiva mediante bloques agrupados por categorías, lo que facilita la navegación y el acceso rápido a las herramientas. Asimismo, se pretende promover un uso responsable, crítico, seguro y educativo de la tecnología digital, teniendo en cuenta la protección de datos, la accesibilidad y la adecuación de los recursos a la edad del alumnado.</p>
+<p style="text-align: justify;">Estos Webmixes constituyen recursos flexibles y abiertos a la mejora continua, que pueden ampliarse, modificarse y adaptarse en función de las necesidades del aula y de la práctica docente.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAgNzaA0AA41_IBjw4Q==" title="Symbaloo estudiantes_page-0001.jpg"><img src="{{context_path}}/content/resources/Symbaloo estudiantes_page-0001.jpg" width="1755" height="1240" alt="" /></a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795353603548-r8hz3stm4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El siguiente Webmix, está dirigido al alumnado y reúne herramientas variadas para acceder a información, desarrollar actividades interactivas, crear contenidos, trabajar diferentes áreas curriculares y practicar de forma autónoma. La selección de recursos pretende dar respuesta a diferentes necesidades, ritmos y estilos de aprendizaje, fomentando la motivación, la creatividad, la participación activa y la autonomía.</p>\n<p style=\"text-align: justify;\">Ambos tableros presentan una organización visual intuitiva mediante bloques agrupados por categorías, lo que facilita la navegación y el acceso rápido a las herramientas. Asimismo, se pretende promover un uso responsable, crítico, seguro y educativo de la tecnología digital, teniendo en cuenta la protección de datos, la accesibilidad y la adecuación de los recursos a la edad del alumnado.</p>\n<p style=\"text-align: justify;\">Estos Webmixes constituyen recursos flexibles y abiertos a la mejora continua, que pueden ampliarse, modificarse y adaptarse en función de las necesidades del aula y de la práctica docente.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAgNzaA0AA41_IBjw4Q==\" title=\"Symbaloo estudiantes_page-0001.jpg\"><img src=\"{{context_path}}/content/resources/Symbaloo estudiantes_page-0001.jpg\" width=\"1755\" height=\"1240\" alt=\"\" /></a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
